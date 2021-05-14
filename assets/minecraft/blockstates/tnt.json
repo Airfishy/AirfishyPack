@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": [ { "model": "tnt", "weight": 100 },{ "model": "tnt1", "weight": 100  },{ "model": "tnt2", "weight": 100 },{ "model": "tnt3", "weight": 100 },{ "model": "tnt4", "weight": 100 } ]
+    }
+}
