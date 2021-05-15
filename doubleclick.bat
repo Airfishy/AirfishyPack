@@ -11,6 +11,7 @@ goto :choice
 :somewhere
 
 echo "Installing Airfishy's Pack"
+rmdir "%appdata%\.minecraft\resourcepacks\Airfishy"
 rmdir "%appdata%\.minecraft\resourcepacks\Air Fishy"
 del "%appdata%\.minecraft\resourcepacks\pack.zip"
 del "%appdata%\.minecraft\resourcepacks\pvppack.zip"
