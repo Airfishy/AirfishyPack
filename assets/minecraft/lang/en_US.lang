@@ -1105,9 +1105,9 @@ item.horsearmordiamond.name=Diamond Horse Armor
 item.prismarineShard.name=Prismarine Shard
 item.prismarineCrystals.name=Prismarine Crystals
 
-container.inventory=Animal Crossing Pockets
+container.inventory=Inventory
 container.hopper=Hopper
-container.crafting=Uncrafting
+container.crafting=Crafting
 container.dispenser=Dispenser
 container.dropper=Dropper
 container.furnace=Furnace
