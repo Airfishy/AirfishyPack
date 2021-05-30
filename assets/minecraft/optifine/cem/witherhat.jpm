@@ -1,0 +1,52 @@
+{
+	"texture": "textures/entity/wither/hat",
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-4.5, 15.5, -4.5, 9, 9, 9],
+			"uvNorth": [8, 24, 16, 32],
+			"uvEast": [0, 24, 8, 32],
+			"uvSouth": [24, 24, 32, 32],
+			"uvWest": [16, 24, 24, 32],
+			"uvUp": [16, 24, 8, 16],
+			"uvDown": [24, 16, 16, 24]
+		},
+		{
+			"coordinates": [-8, 20.01, -8, 16, 1.12, 16],
+			"uvNorth": [0, 0, 2, 2],
+			"uvEast": [0, 0, 2, 2],
+			"uvSouth": [0, 0, 2, 2],
+			"uvWest": [0, 0, 2, 2],
+			"uvUp": [64, 16, 48, 0],
+			"uvDown": [64, 16, 48, 32]
+		},
+		{
+			"coordinates": [-1.5, 14, -1.5, 3, 3, 3],
+			"uvNorth": [45, 3, 48, 6],
+			"uvEast": [48, 3, 45, 6],
+			"uvSouth": [45, 3, 48, 6],
+			"uvWest": [48, 3, 45, 6],
+			"uvUp": [45, 0, 48, 3],
+			"uvDown": [48, 0, 45, 3]
+		},
+		{
+			"coordinates": [-4.05, 15.95, -4.05, 8.1, 8.1, 8.1],
+			"uvNorth": [8, 8, 16, 16],
+			"uvEast": [0, 8, 8, 16],
+			"uvSouth": [24, 8, 32, 16],
+			"uvWest": [16, 8, 24, 16],
+			"uvUp": [16, 8, 8, 0],
+			"uvDown": [16, 0, 24, 8]
+		},
+		{
+			"coordinates": [-2.5, 14, 0, 4, 7, 0],
+			"uvNorth": [44, 3, 48, 10],
+			"uvEast": [0, 0, 1, 5],
+			"uvSouth": [0, 0, 1, 5],
+			"uvWest": [0, 0, 1, 5],
+			"uvUp": [0, 0, 1, 1],
+			"uvDown": [0, 0, 1, 1]
+		}
+	]
+}

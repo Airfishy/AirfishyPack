@@ -1,0 +1,26 @@
+{
+  "models": 
+  [
+	{
+      "part": "head1",
+      "attach": True,
+      "model": "witherhat.jpm",
+      "translate": [0, -20, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "part": "head2",
+      "attach": True,
+      "model": "witherhat2.jpm",
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "part": "head3",
+      "attach": True,
+      "model": "witherhat3.jpm",
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}
